@@ -21,7 +21,7 @@ This is a simple C++ program that converts a binary number input by the user int
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/your-username/binary-to-hexadecimal.git
-   cd binary-to-hexadecimal
+   git clone https://github.com/IqbalAhmadi/binaryToHexadecimal.git
    ```
+
 # binaryToHexadecimal
